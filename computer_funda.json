@@ -39,7 +39,7 @@
         "1. Software\n2. Output device\n3. Input device\n4. Memory\n",
         "1. VDU\n2. UVD\n3. DVU\n4. CCTV\n",
         "1. TB>MB>GB>KB\n2.  MB>GB>TB>KB\n3.  TB>GB>MB>KB\n4.  GB>MB>KB>TB",
-        "1.  CD Rom\n2. Blue Ray Disk\n3. Floppy \n4.  Red Ray Disk",
+        "1. CD Rom\n2. Blue Ray Disk\n3. Floppy \n4. Red Ray Disk",
         "1. VDU\n2.  Hard Copy\n3.  Screen Copy\n4. Soft Copy",
         "1. byte\n2. megabyte\n3. kilobyte\n4. None",
         "1. Data\n2. Instruction\n3. Information\n4. Excursion",

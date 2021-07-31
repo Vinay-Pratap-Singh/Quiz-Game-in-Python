@@ -31,7 +31,7 @@ def main_menu():
         main_menu()
 
 def start_game():
-    print("\nSelect the Topic of the Quiz\n")
+    print("\nSelect the Topic of the Quiz") 
     print('''
     1: Computer Fundamental
     2: Python Programming
@@ -94,7 +94,7 @@ def play_game(choice):
             continue
 
     # Main program part to perform Quiz
-    print("*****Welcome to the Quiz Game*****")
+    print("*****Starting the Quiz Game*****")
     print("Created and Designed By: Vinay Pratap Singh")
     for i in ques_pattern:
         print(question[i])
