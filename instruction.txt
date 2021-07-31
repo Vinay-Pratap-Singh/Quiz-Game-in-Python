@@ -1,0 +1,11 @@
+This is a simple Quiz Game developed in Python by Vinay Pratap Singh
+
+Simply to play this game, you have to select the Start Game option and have to choose the topic upon which you want to give the Quiz
+
+After selecting the topic you will get the question and will have 4 option as MCQ
+Simply select the correct option and hit enter
+
+If the entered answer will be wrong, you will get the correct answer there and in final you will get the total correct answers you have given.
+
+Best of Luck
+Play and Enjoy the Game
