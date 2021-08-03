@@ -105,6 +105,7 @@ def play_game(choice):
                 print("Invalid Option Selected")
                 continue
             if user_answer == answer[i]:
+                print("Correct Answer\n")
                 count+=1
             else:
                 print("Wrong Answer")
